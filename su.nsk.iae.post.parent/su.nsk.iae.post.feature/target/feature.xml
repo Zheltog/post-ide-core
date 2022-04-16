@@ -6,7 +6,7 @@
 
    <plugin
          id="su.nsk.iae.post"
-         download-size="679"
+         download-size="680"
          install-size="1873"
          version="1.0.0"
          unpack="false"/>

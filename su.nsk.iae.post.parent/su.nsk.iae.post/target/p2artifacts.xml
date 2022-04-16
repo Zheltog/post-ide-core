@@ -3,8 +3,8 @@
 <artifacts size='2'>
   <artifact classifier='osgi.bundle' id='su.nsk.iae.post' version='1.0.0'>
     <properties size='5'>
-      <property name='artifact.size' value='696286'/>
-      <property name='download.size' value='696286'/>
+      <property name='artifact.size' value='696566'/>
+      <property name='download.size' value='696566'/>
       <property name='maven-groupId' value='su.nsk.iae.post'/>
       <property name='maven-artifactId' value='su.nsk.iae.post'/>
       <property name='maven-version' value='1.0.0'/>
@@ -12,8 +12,8 @@
   </artifact>
   <artifact classifier='osgi.bundle' id='su.nsk.iae.post.source' version='1.0.0'>
     <properties size='6'>
-      <property name='artifact.size' value='476160'/>
-      <property name='download.size' value='476160'/>
+      <property name='artifact.size' value='476517'/>
+      <property name='download.size' value='476517'/>
       <property name='maven-groupId' value='su.nsk.iae.post'/>
       <property name='maven-artifactId' value='su.nsk.iae.post'/>
       <property name='maven-version' value='1.0.0'/>
