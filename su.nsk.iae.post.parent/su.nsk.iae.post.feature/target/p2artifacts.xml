@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='org.eclipse.update.feature' id='su.nsk.iae.post.feature' version='1.0.0'>
+    <properties size='6'>
+      <property name='artifact.size' value='608'/>
+      <property name='download.size' value='608'/>
+      <property name='maven-groupId' value='su.nsk.iae.post'/>
+      <property name='maven-artifactId' value='su.nsk.iae.post.feature'/>
+      <property name='maven-version' value='1.0.0'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+  <artifact classifier='org.eclipse.update.feature' id='su.nsk.iae.post.feature.source' version='1.0.0'>
+    <properties size='7'>
+      <property name='artifact.size' value='1895'/>
+      <property name='download.size' value='1895'/>
+      <property name='maven-groupId' value='su.nsk.iae.post'/>
+      <property name='maven-artifactId' value='su.nsk.iae.post.feature'/>
+      <property name='maven-version' value='1.0.0'/>
+      <property name='maven-classifier' value='sources-feature'/>
+      <property name='download.contentType' value='application/zip'/>
+    </properties>
+  </artifact>
+</artifacts>

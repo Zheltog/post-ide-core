@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<artifacts size='2'>
+  <artifact classifier='osgi.bundle' id='su.nsk.iae.post.ui' version='1.0.0'>
+    <properties size='5'>
+      <property name='artifact.size' value='59587'/>
+      <property name='download.size' value='59587'/>
+      <property name='maven-groupId' value='su.nsk.iae.post'/>
+      <property name='maven-artifactId' value='su.nsk.iae.post.ui'/>
+      <property name='maven-version' value='1.0.0'/>
+    </properties>
+  </artifact>
+  <artifact classifier='osgi.bundle' id='su.nsk.iae.post.ui.source' version='1.0.0'>
+    <properties size='6'>
+      <property name='artifact.size' value='31724'/>
+      <property name='download.size' value='31724'/>
+      <property name='maven-groupId' value='su.nsk.iae.post'/>
+      <property name='maven-artifactId' value='su.nsk.iae.post.ui'/>
+      <property name='maven-version' value='1.0.0'/>
+      <property name='maven-classifier' value='sources'/>
+    </properties>
+  </artifact>
+</artifacts>

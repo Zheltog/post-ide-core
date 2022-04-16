@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature id="su.nsk.iae.post.feature.source" version="1.0.0" label="PoST Feature  Developer Resources">
+  <includes id="su.nsk.iae.post.feature" version="1.0.0"/>
+  <plugin id="su.nsk.iae.post.source" version="1.0.0" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="su.nsk.iae.post.ide.source" version="1.0.0" download-size="0" install-size="0" unpack="false"/>
+  <plugin id="su.nsk.iae.post.ui.source" version="1.0.0" download-size="0" install-size="0" unpack="false"/>
+</feature>

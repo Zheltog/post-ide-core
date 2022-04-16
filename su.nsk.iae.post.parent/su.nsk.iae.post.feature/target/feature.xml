@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="su.nsk.iae.post.feature"
+      label="PoST Feature "
+      version="1.0.0">
+
+   <plugin
+         id="su.nsk.iae.post"
+         download-size="679"
+         install-size="1873"
+         version="1.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="su.nsk.iae.post.ide"
+         download-size="212"
+         install-size="1038"
+         version="1.0.0"
+         unpack="false"/>
+
+   <plugin
+         id="su.nsk.iae.post.ui"
+         download-size="58"
+         install-size="154"
+         version="1.0.0"
+         unpack="false"/>
+
+</feature>
