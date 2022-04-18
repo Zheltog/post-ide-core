@@ -12,8 +12,8 @@
   </artifact>
   <artifact classifier='osgi.bundle' id='su.nsk.iae.post.ide.source' version='1.0.0'>
     <properties size='6'>
-      <property name='artifact.size' value='152166'/>
-      <property name='download.size' value='152166'/>
+      <property name='artifact.size' value='152168'/>
+      <property name='download.size' value='152168'/>
       <property name='maven-groupId' value='su.nsk.iae.post'/>
       <property name='maven-artifactId' value='su.nsk.iae.post.ide'/>
       <property name='maven-version' value='1.0.0'/>
