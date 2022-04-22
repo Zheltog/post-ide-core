@@ -9,7 +9,7 @@
       <property name='maven-artifactId' value='su.nsk.iae.post'/>
       <property name='maven-version' value='1.0.0'/>
     </properties>
-    <provides size='15'>
+    <provides size='16'>
       <provided namespace='org.eclipse.equinox.p2.iu' name='su.nsk.iae.post' version='1.0.0'/>
       <provided namespace='osgi.bundle' name='su.nsk.iae.post' version='1.0.0'/>
       <provided namespace='java.package' name='su.nsk.iae.post.serializer' version='0.0.0'/>
@@ -23,6 +23,7 @@
       <provided namespace='java.package' name='su.nsk.iae.post.poST' version='0.0.0'/>
       <provided namespace='java.package' name='su.nsk.iae.post.services' version='0.0.0'/>
       <provided namespace='java.package' name='su.nsk.iae.post.parser.antlr' version='0.0.0'/>
+      <provided namespace='java.package' name='su.nsk.iae.post.deserialization' version='0.0.0'/>
       <provided namespace='osgi.identity' name='su.nsk.iae.post' version='1.0.0'>
         <properties size='1'>
           <property name='type' value='osgi.bundle'/>

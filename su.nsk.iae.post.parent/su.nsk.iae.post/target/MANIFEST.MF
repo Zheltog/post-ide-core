@@ -16,6 +16,6 @@ Export-Package: su.nsk.iae.post.serializer,su.nsk.iae.post,su.nsk.iae.po
  st.poST.util,su.nsk.iae.post.parser.antlr.internal,su.nsk.iae.post.vali
  dation,su.nsk.iae.post.scoping,su.nsk.iae.post.poST.impl,su.nsk.iae.pos
  t.generator,su.nsk.iae.post.poST,su.nsk.iae.post.services,su.nsk.iae.po
- st.parser.antlr
+ st.parser.antlr,su.nsk.iae.post.deserialization
 Import-Package: org.apache.log4j
 
